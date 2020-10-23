@@ -1,0 +1,16 @@
+NAME : propio
+COMMENT : drilling problem (Ludwig)
+TYPE : TSP
+DIMENSION: 10
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+  1 3 5
+  2 20 1
+  3 40 13
+  4 5 32
+  5 31 31
+  6 6 0
+  7 80 5
+  8 10 10
+  9 25 2
+ 10 80 80

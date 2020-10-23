@@ -1,0 +1,38 @@
+##################################################
+###############  COMO EJECUTAR ###################
+##################################################
+
+EJECUTAR TSP
+    CERCANIA
+    
+        Para ejecutar y que lea los datos de un fichero "fichero.tsp"
+            ./Ejer_viajante_de_comercio/bin/cercania ./Ejer_viajante_de_comercio/tsp_escenarios_ejecucion/ulysses16.tsp
+        
+        Para ejcutar y que cree 80 ciudades con cordenadas aleatoria
+            ./Ejer_viajante_de_comercio/bin/cercania NUMCIUDADES 80
+
+    -----------------------------------------------------------------------
+
+    INSERCION
+
+        Para ejecutar y que lea los datos de un fichero "fichero.tsp"
+            ./Ejer_viajante_de_comercio/bin/insercion ./Ejer_viajante_de_comercio/tsp_escenarios_ejecucion/ulysses16.tsp
+        
+        Para ejcutar y que cree 300 ciudades con cordenadas aleatoria
+            ./Ejer_viajante_de_comercio/bin/insercion NUMCIUDADES 300
+
+    -----------------------------------------------------------------------         
+    PROPIO
+
+        Para ejecutar y que lea los datos de un fichero "fichero.tsp"
+            ./Ejer_viajante_de_comercio/bin/propio ./Ejer_viajante_de_comercio/tsp_escenarios_ejecucion/ulysses16.tsp
+        
+        Para ejcutar y que cree 150 ciudades con cordenadas aleatoria
+            ./Ejer_viajante_de_comercio/bin/propio NUMCIUDADES 150
+
+############################################################################
+
+EJECUTAR PROBLEMA CONTENEDORES
+    Para ejecutar ambos casos se usa el mismo
+        ./Ejer_3.4/bin/contenedor ./Ejer_3.4/data/filedatos
+        
